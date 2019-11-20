@@ -8,3 +8,4 @@ _ReSharper.*
 *.log
 .DS_Store
 .vs/
+*.snk
